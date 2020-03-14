@@ -5,4 +5,4 @@ Added modern day graphics and animations; different difficulty levels, backgroun
 
 For more details refer to [report.pdf](report.pdf)
 
-The game can be played at this [link](https://nilax97.github.io/WebGL_Game/index.html)
+The game can be played at this [link](http://www.cse.iitd.ac.in/~shubhankar/TA/COP701/navreet_nilaksh/index.html)
