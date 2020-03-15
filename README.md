@@ -1,4 +1,4 @@
-# zaxxon
+# Zaxxon-3D-Railshooter
 Recreation of the Railshooter by SEGA with 3D Graphics using Unity
 
 Added modern day graphics and animations; different difficulty levels, backgrounds and turret guns; and extensive game control options. Made as an assignment for the Software Systems Lab course at IIT Delhi.
