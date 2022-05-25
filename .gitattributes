@@ -1,0 +1,5 @@
+Build/sample.data.unityweb filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.unityweb !text !filter !merge !diff
+=======
+>>>>>>> 7e2293116ef3ddd5bc83122472d28e608168284f
